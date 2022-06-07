@@ -1,0 +1,1038 @@
+[2022-06-07 15:44:59,722.722] INFO [139986586412864] - Started server process [1]
+[2022-06-07 15:44:59,722.722] INFO [139986586412864] - Waiting for application startup.
+[2022-06-07 15:45:00,235.235] INFO [139986586412864] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:45:00,750.750] INFO [139986586412864] - Application startup complete.
+[2022-06-07 15:45:00,750.750] INFO [139986586412864] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 15:45:46,029.029] INFO [139986586412864] - Shutting down
+[2022-06-07 15:45:46,130.130] INFO [139986586412864] - Waiting for application shutdown.
+[2022-06-07 15:45:46,147.147] INFO [139986586412864] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:45:46,147.147] INFO [139986586412864] - Application shutdown complete.
+[2022-06-07 15:45:46,147.147] INFO [139986586412864] - Finished server process [1]
+[2022-06-07 15:51:19,543.543] INFO [139906268587840] - Started server process [1]
+[2022-06-07 15:51:19,543.543] INFO [139906268587840] - Waiting for application startup.
+[2022-06-07 15:51:20,069.069] INFO [139906268587840] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:51:20,213.213] INFO [139906268587840] - Application startup complete.
+[2022-06-07 15:51:20,214.214] INFO [139906268587840] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 15:51:23,646.646] INFO [139906268587840] - Shutting down
+[2022-06-07 15:51:23,748.748] INFO [139906268587840] - Waiting for application shutdown.
+[2022-06-07 15:51:23,755.755] INFO [139906268587840] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:51:23,755.755] INFO [139906268587840] - Application shutdown complete.
+[2022-06-07 15:51:23,756.756] INFO [139906268587840] - Finished server process [1]
+[2022-06-07 15:54:43,512.512] INFO [140601175275328] - Started server process [1]
+[2022-06-07 15:54:43,512.512] INFO [140601175275328] - Waiting for application startup.
+[2022-06-07 15:54:44,045.045] INFO [140601175275328] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:54:44,188.188] INFO [140601175275328] - Application startup complete.
+[2022-06-07 15:54:44,189.189] INFO [140601175275328] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 15:55:30,332.332] INFO [140601175275328] - Shutting down
+[2022-06-07 15:55:30,433.433] INFO [140601175275328] - Waiting for application shutdown.
+[2022-06-07 15:55:30,448.448] INFO [140601175275328] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:55:30,449.449] INFO [140601175275328] - Application shutdown complete.
+[2022-06-07 15:55:30,449.449] INFO [140601175275328] - Finished server process [1]
+[2022-06-07 15:55:41,374.374] INFO [140308677826368] - Started server process [1]
+[2022-06-07 15:55:41,375.375] INFO [140308677826368] - Waiting for application startup.
+[2022-06-07 15:55:41,889.889] INFO [140308677826368] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:55:42,461.461] INFO [140308677826368] - Application startup complete.
+[2022-06-07 15:55:42,462.462] INFO [140308677826368] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 15:56:06,043.043] INFO [140308677826368] - Shutting down
+[2022-06-07 15:56:06,144.144] INFO [140308677826368] - Waiting for application shutdown.
+[2022-06-07 15:56:06,172.172] INFO [140308677826368] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:56:06,173.173] INFO [140308677826368] - Application shutdown complete.
+[2022-06-07 15:56:06,173.173] INFO [140308677826368] - Finished server process [1]
+[2022-06-07 15:56:14,925.925] INFO [140083924436800] - Started server process [1]
+[2022-06-07 15:56:14,925.925] INFO [140083924436800] - Waiting for application startup.
+[2022-06-07 15:56:15,444.444] INFO [140083924436800] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:56:15,705.705] INFO [140083924436800] - Application startup complete.
+[2022-06-07 15:56:15,706.706] INFO [140083924436800] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 15:58:14,176.176] INFO [140083924436800] - Shutting down
+[2022-06-07 15:58:14,277.277] INFO [140083924436800] - Waiting for application shutdown.
+[2022-06-07 15:58:14,290.290] INFO [140083924436800] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:58:14,291.291] INFO [140083924436800] - Application shutdown complete.
+[2022-06-07 15:58:14,291.291] INFO [140083924436800] - Finished server process [1]
+[2022-06-07 15:58:21,488.488] INFO [139789113358144] - Started server process [1]
+[2022-06-07 15:58:21,488.488] INFO [139789113358144] - Waiting for application startup.
+[2022-06-07 15:58:22,006.006] INFO [139789113358144] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 15:58:22,271.271] INFO [139789113358144] - Application startup complete.
+[2022-06-07 15:58:22,272.272] INFO [139789113358144] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 16:11:11,042.042] INFO [139789113358144] - Shutting down
+[2022-06-07 16:11:11,143.143] INFO [139789113358144] - Waiting for application shutdown.
+[2022-06-07 16:11:11,146.146] INFO [139789113358144] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 16:11:11,146.146] INFO [139789113358144] - Application shutdown complete.
+[2022-06-07 16:11:11,146.146] INFO [139789113358144] - Finished server process [1]
+[2022-06-07 16:11:19,607.607] INFO [139897633298240] - Started server process [1]
+[2022-06-07 16:11:19,607.607] INFO [139897633298240] - Waiting for application startup.
+[2022-06-07 16:11:20,125.125] INFO [139897633298240] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 16:11:20,388.388] INFO [139897633298240] - Application startup complete.
+[2022-06-07 16:11:20,389.389] INFO [139897633298240] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 16:55:46,770.770] INFO [139897633298240] - Shutting down
+[2022-06-07 16:55:46,871.871] INFO [139897633298240] - Waiting for application shutdown.
+[2022-06-07 16:55:46,873.873] INFO [139897633298240] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 16:55:46,874.874] INFO [139897633298240] - Application shutdown complete.
+[2022-06-07 16:55:46,874.874] INFO [139897633298240] - Finished server process [1]
+[2022-06-07 16:57:30,431.431] INFO [140414921951040] - Started server process [1]
+[2022-06-07 16:57:30,431.431] INFO [140414921951040] - Waiting for application startup.
+[2022-06-07 16:57:30,948.948] INFO [140414921951040] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 16:57:31,204.204] INFO [140414921951040] - Application startup complete.
+[2022-06-07 16:57:31,205.205] INFO [140414921951040] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 17:07:38,996.996] INFO [140414921951040] - 172.18.0.1:41970 - "GET /docs HTTP/1.1" 200
+[2022-06-07 17:07:40,333.333] INFO [140414921951040] - 172.18.0.1:41970 - "GET /openapi.json HTTP/1.1" 200
+[2022-06-07 17:07:50,100.100] INFO [140414921951040] - 172.18.0.1:41968 - "POST /users/register/ HTTP/1.1" 201
+[2022-06-07 17:07:54,160.160] INFO [140414921951040] - 172.18.0.1:41968 - "POST /users/register/ HTTP/1.1" 400
+[2022-06-07 17:09:07,045.045] INFO [140414921951040] - 172.18.0.1:41972 - "POST /users/register/ HTTP/1.1" 400
+[2022-06-07 17:09:08,660.660] INFO [140414921951040] - 172.18.0.1:41972 - "POST /users/register/ HTTP/1.1" 400
+[2022-06-07 17:09:32,019.019] INFO [140414921951040] - 172.18.0.1:41974 - "POST /users/login/ HTTP/1.1" 200
+[2022-06-07 17:11:39,932.932] INFO [140414921951040] - 172.18.0.1:41976 - "POST /users/login/ HTTP/1.1" 400
+[2022-06-07 17:14:03,641.641] INFO [140414921951040] - 172.18.0.1:41978 - "GET /users/users/?username=username HTTP/1.1" 403
+[2022-06-07 17:17:59,599.599] INFO [140414921951040] - 172.18.0.1:41980 - "POST /users/login/ HTTP/1.1" 200
+[2022-06-07 17:18:53,185.185] INFO [140414921951040] - 172.18.0.1:41982 - "GET /users/users/?username=admin HTTP/1.1" 200
+[2022-06-07 17:24:18,639.639] INFO [140414921951040] - 172.18.0.1:41984 - "GET /users/users/?username=adminefewrwer HTTP/1.1" 200
+[2022-06-07 17:25:46,414.414] INFO [140414921951040] - 172.18.0.1:41990 - "GET /users/users/?username=invalid_username HTTP/1.1" 200
+[2022-06-07 17:26:57,622.622] INFO [140414921951040] - 172.18.0.1:41992 - "PUT /users/1/make-admin HTTP/1.1" 204
+[2022-06-07 17:26:57,622.622] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:27:15,265.265] INFO [140414921951040] - 172.18.0.1:41994 - "PUT /users/1/make-admin HTTP/1.1" 204
+[2022-06-07 17:27:15,265.265] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:27:16,201.201] INFO [140414921951040] - 172.18.0.1:41996 - "PUT /users/1/make-admin HTTP/1.1" 204
+[2022-06-07 17:27:16,201.201] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:27:16,787.787] INFO [140414921951040] - 172.18.0.1:41998 - "PUT /users/1/make-admin HTTP/1.1" 204
+[2022-06-07 17:27:16,787.787] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:27:17,355.355] INFO [140414921951040] - 172.18.0.1:42000 - "PUT /users/1/make-admin HTTP/1.1" 204
+[2022-06-07 17:27:17,356.356] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:27:21,756.756] INFO [140414921951040] - 172.18.0.1:42002 - "PUT /users/2/make-admin HTTP/1.1" 204
+[2022-06-07 17:27:21,757.757] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:27:32,022.022] INFO [140414921951040] - 172.18.0.1:42004 - "PUT /users/2/make-admin HTTP/1.1" 204
+[2022-06-07 17:27:32,022.022] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:28:52,638.638] INFO [140414921951040] - 172.18.0.1:42006 - "PUT /users/3/make-admin HTTP/1.1" 204
+[2022-06-07 17:28:52,638.638] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:29:03,705.705] INFO [140414921951040] - 172.18.0.1:42008 - "PUT /users/4/make-admin HTTP/1.1" 204
+[2022-06-07 17:29:03,706.706] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:29:47,418.418] INFO [140414921951040] - 172.18.0.1:42010 - "PUT /users/5/make-admin HTTP/1.1" 204
+[2022-06-07 17:29:47,418.418] ERROR [140414921951040] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 68, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/responses.py", line 162, in __call__
+    await send({"type": "http.response.body", "body": self.body})
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 79, in sender
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 153, in send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in _send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 72, in inner_send
+    await send(message)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 462, in send
+    output = self.conn.send(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 468, in send
+    data_list = self.send_with_data_passthrough(event)
+  File "/usr/local/lib/python3.9/site-packages/h11/_connection.py", line 501, in send_with_data_passthrough
+    writer(event, data_list.append)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 58, in __call__
+    self.send_data(event.data, write)
+  File "/usr/local/lib/python3.9/site-packages/h11/_writers.py", line 78, in send_data
+    raise LocalProtocolError("Too much data for declared Content-Length")
+h11._util.LocalProtocolError: Too much data for declared Content-Length
+[2022-06-07 17:30:51,241.241] INFO [140414921951040] - Shutting down
+[2022-06-07 17:30:51,341.341] INFO [140414921951040] - Waiting for application shutdown.
+[2022-06-07 17:30:51,355.355] INFO [140414921951040] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 17:30:51,356.356] INFO [140414921951040] - Application shutdown complete.
+[2022-06-07 17:30:51,356.356] INFO [140414921951040] - Finished server process [1]
+[2022-06-07 17:31:15,462.462] INFO [140679037548352] - Started server process [1]
+[2022-06-07 17:31:15,462.462] INFO [140679037548352] - Waiting for application startup.
+[2022-06-07 17:31:15,973.973] INFO [140679037548352] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 17:31:16,535.535] INFO [140679037548352] - Application startup complete.
+[2022-06-07 17:31:16,536.536] INFO [140679037548352] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 17:46:43,301.301] INFO [140679037548352] - 172.18.0.1:42012 - "GET /publishers/publishers/?publisher_name=Google%20News HTTP/1.1" 200
+[2022-06-07 17:49:38,788.788] INFO [140679037548352] - 172.18.0.1:42014 - "GET /publishers/publishers/?publisher_name=Google%20Nes HTTP/1.1" 200
+[2022-06-07 17:51:37,274.274] INFO [140679037548352] - 172.18.0.1:42016 - "GET /publishers/subscribed/ HTTP/1.1" 200
+[2022-06-07 17:51:49,141.141] INFO [140679037548352] - 172.18.0.1:42018 - "POST /publishers/subscribe/?publisher_id=1 HTTP/1.1" 201
+[2022-06-07 17:54:05,989.989] INFO [140679037548352] - 172.18.0.1:42020 - "POST /publishers/subscribe/?publisher_id=11111111 HTTP/1.1" 500
+[2022-06-07 17:54:05,990.990] ERROR [140679037548352] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/./resources/publishers.py", line 36, in subscribe
+    subscribe_id = await PublisherHelper.subscribe(publisher_id=publisher_id, user=user)
+  File "/app/./helpers/publishers.py", line 25, in subscribe
+    return await database.execute(subscribers.insert().values(**data))
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 170, in execute
+    return await connection.execute(query, values)
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 295, in execute
+    return await self._connection.execute(built_query)
+  File "/usr/local/lib/python3.9/site-packages/databases/backends/postgres.py", line 213, in execute
+    return await self._connection.fetchval(query_str, *args)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 645, in fetchval
+    data = await self._execute(query, args, 1, timeout)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1659, in _execute
+    result, _ = await self.__execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1684, in __execute
+    return await self._do_execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1731, in _do_execute
+    result = await executor(stmt, None)
+  File "asyncpg/protocol/protocol.pyx", line 201, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: insert or update on table "subscribers" violates foreign key constraint "subscribers_publisher_id_fkey"
+DETAIL:  Key (publisher_id)=(11111111) is not present in table "publishers".
+[2022-06-07 17:54:13,987.987] INFO [140679037548352] - 172.18.0.1:42022 - "POST /publishers/subscribe/?publisher_id=11111 HTTP/1.1" 500
+[2022-06-07 17:54:13,988.988] ERROR [140679037548352] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/./resources/publishers.py", line 36, in subscribe
+    subscribe_id = await PublisherHelper.subscribe(publisher_id=publisher_id, user=user)
+  File "/app/./helpers/publishers.py", line 25, in subscribe
+    return await database.execute(subscribers.insert().values(**data))
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 170, in execute
+    return await connection.execute(query, values)
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 295, in execute
+    return await self._connection.execute(built_query)
+  File "/usr/local/lib/python3.9/site-packages/databases/backends/postgres.py", line 213, in execute
+    return await self._connection.fetchval(query_str, *args)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 645, in fetchval
+    data = await self._execute(query, args, 1, timeout)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1659, in _execute
+    result, _ = await self.__execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1684, in __execute
+    return await self._do_execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1731, in _do_execute
+    result = await executor(stmt, None)
+  File "asyncpg/protocol/protocol.pyx", line 201, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: insert or update on table "subscribers" violates foreign key constraint "subscribers_publisher_id_fkey"
+DETAIL:  Key (publisher_id)=(11111) is not present in table "publishers".
+[2022-06-07 17:55:20,828.828] INFO [140679037548352] - 172.18.0.1:42024 - "GET /publishers/subscribed/ HTTP/1.1" 200
+[2022-06-07 17:57:25,060.060] INFO [140679037548352] - 172.18.0.1:42026 - "GET /feeds/feeds/?publisher_id=1 HTTP/1.1" 200
+[2022-06-07 17:57:28,624.624] INFO [140679037548352] - 172.18.0.1:42026 - "GET /feeds/feeds/?publisher_id=2 HTTP/1.1" 200
+[2022-06-07 17:58:56,287.287] INFO [140679037548352] - 172.18.0.1:42028 - "GET /feeds/feeds/?publisher_id=223333 HTTP/1.1" 200
+[2022-06-07 17:58:56,658.658] INFO [140679037548352] - 172.18.0.1:42028 - "GET /feeds/feeds/?publisher_id=223333 HTTP/1.1" 200
+[2022-06-07 18:00:22,605.605] INFO [140679037548352] - 172.18.0.1:42030 - "POST /feeds/like/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:02:22,996.996] INFO [140679037548352] - 172.18.0.1:42032 - "GET /feeds/liked/ HTTP/1.1" 200
+[2022-06-07 18:03:25,428.428] INFO [140679037548352] - 172.18.0.1:42034 - "DELETE /feeds/unlike/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:03:26,809.809] INFO [140679037548352] - 172.18.0.1:42034 - "DELETE /feeds/unlike/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:03:27,668.668] INFO [140679037548352] - 172.18.0.1:42034 - "DELETE /feeds/unlike/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:06:09,635.635] INFO [140679037548352] - 172.18.0.1:42036 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:06:32,169.169] INFO [140679037548352] - 172.18.0.1:42038 - "GET /feeds/comments/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:10:37,058.058] INFO [140679037548352] - 172.18.0.1:42040 - "DELETE /feeds/uncomment/?comment_id=1 HTTP/1.1" 200
+[2022-06-07 18:11:50,505.505] INFO [140679037548352] - 172.18.0.1:42044 - "DELETE /feeds/uncomment/?comment_id=11111111 HTTP/1.1" 200
+[2022-06-07 18:11:54,637.637] INFO [140679037548352] - 172.18.0.1:42044 - "DELETE /feeds/uncomment/?comment_id=1111111111111 HTTP/1.1" 500
+[2022-06-07 18:11:54,638.638] ERROR [140679037548352] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/./resources/feeds.py", line 82, in uncomment
+    _ = await FeedHelper.remove_comment(comment_id=comment_id, user=user)
+  File "/app/./helpers/feeds.py", line 76, in remove_comment
+    await database.execute(
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 170, in execute
+    return await connection.execute(query, values)
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 295, in execute
+    return await self._connection.execute(built_query)
+  File "/usr/local/lib/python3.9/site-packages/databases/backends/postgres.py", line 213, in execute
+    return await self._connection.fetchval(query_str, *args)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 645, in fetchval
+    data = await self._execute(query, args, 1, timeout)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1659, in _execute
+    result, _ = await self.__execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1684, in __execute
+    return await self._do_execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1731, in _do_execute
+    result = await executor(stmt, None)
+  File "asyncpg/protocol/protocol.pyx", line 183, in bind_execute
+  File "asyncpg/protocol/prepared_stmt.pyx", line 197, in asyncpg.protocol.protocol.PreparedStatementState._encode_bind_msg
+asyncpg.exceptions.DataError: invalid input for query argument $1: 1111111111111 (value out of int32 range)
+[2022-06-07 18:12:03,119.119] INFO [140679037548352] - 172.18.0.1:42046 - "POST /feeds/view/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:12:12,420.420] INFO [140679037548352] - 172.18.0.1:42048 - "POST /feeds/view/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:12:23,308.308] INFO [140679037548352] - 172.18.0.1:42050 - "GET /feeds/seen/ HTTP/1.1" 200
+[2022-06-07 18:13:12,024.024] INFO [140679037548352] - 172.18.0.1:42052 - "POST /feeds/view/?feed_id=111111 HTTP/1.1" 500
+[2022-06-07 18:13:12,024.024] ERROR [140679037548352] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/./resources/feeds.py", line 92, in viewed
+    _ = await FeedHelper.view(user=user, feed_id=feed_id)
+  File "/app/./helpers/feeds.py", line 83, in view
+    return await database.execute(seen.insert().values(**data))
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 170, in execute
+    return await connection.execute(query, values)
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 295, in execute
+    return await self._connection.execute(built_query)
+  File "/usr/local/lib/python3.9/site-packages/databases/backends/postgres.py", line 213, in execute
+    return await self._connection.fetchval(query_str, *args)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 645, in fetchval
+    data = await self._execute(query, args, 1, timeout)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1659, in _execute
+    result, _ = await self.__execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1684, in __execute
+    return await self._do_execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1731, in _do_execute
+    result = await executor(stmt, None)
+  File "asyncpg/protocol/protocol.pyx", line 201, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: insert or update on table "seen" violates foreign key constraint "seen_feed_id_fkey"
+DETAIL:  Key (feed_id)=(111111) is not present in table "feeds".
+[2022-06-07 18:15:20,201.201] INFO [140679037548352] - Shutting down
+[2022-06-07 18:15:20,302.302] INFO [140679037548352] - Waiting for application shutdown.
+[2022-06-07 18:15:20,308.308] INFO [140679037548352] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 18:15:20,308.308] INFO [140679037548352] - Application shutdown complete.
+[2022-06-07 18:15:20,308.308] INFO [140679037548352] - Finished server process [1]
+[2022-06-07 18:15:48,011.011] INFO [140080622581568] - Started server process [1]
+[2022-06-07 18:15:48,011.011] INFO [140080622581568] - Waiting for application startup.
+[2022-06-07 18:15:48,518.518] INFO [140080622581568] - Connected to database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 18:15:49,090.090] INFO [140080622581568] - Application startup complete.
+[2022-06-07 18:15:49,090.090] INFO [140080622581568] - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[2022-06-07 18:16:56,355.355] INFO [140080622581568] - 172.18.0.1:42054 - "GET /docs HTTP/1.1" 200
+[2022-06-07 18:16:56,642.642] INFO [140080622581568] - 172.18.0.1:42054 - "GET /openapi.json HTTP/1.1" 200
+[2022-06-07 18:17:09,880.880] INFO [140080622581568] - 172.18.0.1:42056 - "GET /feeds/comments/?feed_id=1 HTTP/1.1" 403
+[2022-06-07 18:17:27,638.638] INFO [140080622581568] - 172.18.0.1:42058 - "POST /users/login/ HTTP/1.1" 400
+[2022-06-07 18:17:37,696.696] INFO [140080622581568] - 172.18.0.1:42060 - "POST /users/login/ HTTP/1.1" 200
+[2022-06-07 18:17:54,686.686] INFO [140080622581568] - 172.18.0.1:42062 - "GET /feeds/comments/?feed_id=1 HTTP/1.1" 200
+[2022-06-07 18:18:12,563.563] INFO [140080622581568] - 172.18.0.1:42064 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:21:35,261.261] INFO [140080622581568] - 172.18.0.1:42068 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:21:37,503.503] INFO [140080622581568] - 172.18.0.1:42068 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:21:43,197.197] INFO [140080622581568] - 172.18.0.1:42070 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:21:43,818.818] INFO [140080622581568] - 172.18.0.1:42070 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:24:30,450.450] INFO [140080622581568] - 172.18.0.1:42072 - "GET /publishers/subscribed/ HTTP/1.1" 200
+[2022-06-07 18:25:26,986.986] INFO [140080622581568] - 172.18.0.1:42074 - "POST /publishers/subscribe/?publisher_id=11111 HTTP/1.1" 500
+[2022-06-07 18:25:26,986.986] ERROR [140080622581568] - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/message_logger.py", line 78, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/usr/local/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/./resources/publishers.py", line 36, in subscribe
+    subscribe_id = await PublisherHelper.subscribe(publisher_id=publisher_id, user=user)
+  File "/app/./helpers/publishers.py", line 25, in subscribe
+    return await database.execute(subscribers.insert().values(**data))
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 170, in execute
+    return await connection.execute(query, values)
+  File "/usr/local/lib/python3.9/site-packages/databases/core.py", line 295, in execute
+    return await self._connection.execute(built_query)
+  File "/usr/local/lib/python3.9/site-packages/databases/backends/postgres.py", line 213, in execute
+    return await self._connection.fetchval(query_str, *args)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 645, in fetchval
+    data = await self._execute(query, args, 1, timeout)
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1659, in _execute
+    result, _ = await self.__execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1684, in __execute
+    return await self._do_execute(
+  File "/usr/local/lib/python3.9/site-packages/asyncpg/connection.py", line 1731, in _do_execute
+    result = await executor(stmt, None)
+  File "asyncpg/protocol/protocol.pyx", line 201, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: insert or update on table "subscribers" violates foreign key constraint "subscribers_publisher_id_fkey"
+DETAIL:  Key (publisher_id)=(11111) is not present in table "publishers".
+[2022-06-07 18:27:38,643.643] INFO [140080622581568] - 172.18.0.1:42076 - "POST /publishers/subscribe/?publisher_id=1 HTTP/1.1" 201
+[2022-06-07 18:29:08,184.184] INFO [140080622581568] - 172.18.0.1:42078 - "POST /feeds/comments/ HTTP/1.1" 200
+[2022-06-07 18:32:01,783.783] INFO [140080622581568] - Shutting down
+[2022-06-07 18:32:01,885.885] INFO [140080622581568] - Waiting for application shutdown.
+[2022-06-07 18:32:01,899.899] INFO [140080622581568] - Disconnected from database postgresql://postgres:********@db:5432/postgres
+[2022-06-07 18:32:01,899.899] INFO [140080622581568] - Application shutdown complete.
+[2022-06-07 18:32:01,900.900] INFO [140080622581568] - Finished server process [1]

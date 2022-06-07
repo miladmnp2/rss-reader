@@ -1,0 +1,14 @@
+# Postgres env vars
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_DB=postgres
+TZ=Asia/Tehran
+
+# FastAPI env vars
+DB_USER=postgres
+DB_PASSWORD=postgres
+DB_NAME=postgres
+DB_HOST=db
+SECRET_KEY=RsSrEAderVerYSEc345312
+PERIODIC_OR_ON_DEMAND=PERIODIC
+SCRAP_INTERVAL_IN_SECONDS=3600

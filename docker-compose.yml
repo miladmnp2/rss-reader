@@ -1,0 +1,38 @@
+version: '3.0'
+
+services:
+  web:
+    build: .
+    image: rss-reader
+    container_name: rss-reader-web
+    command: |
+      bash -cx '
+        while !</dev/tcp/db/5432
+          do
+            sleep 1
+          done
+        alembic init db
+        alembic revision --autogenerate -m "Foreign key updates"
+        alembic upgrade head
+        uvicorn main:app --host 0.0.0.0 --port 8080 --log-config log.ini'
+    volumes:
+      - ./codes:/app
+    ports:
+      - 8080:8080
+    env_file:
+      - env
+    depends_on:
+      - db
+
+  db:
+    image: postgres:14
+    container_name: rss-reader-db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    expose:
+      - 5432
+    env_file:
+      - env
+
+volumes:
+  postgres_data:

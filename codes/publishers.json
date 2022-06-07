@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Google News",
+    "link": "http://news.google.com/news?cf=all&hl=en&pz=1&ned=us&topic=h&num=3&output=rss",
+    "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+  },
+  {
+    "name": "Guardian Game News",
+    "link": "https://www.theguardian.com/games/rss",
+    "description": ""
+  },
+  {
+    "name": "NPR",
+    "link": "http://www.npr.org/rss/rss.php?id=1001",
+    "description": "US National Public Radio audio broadcast and text news stories and commentaries."
+  },
+  {
+    "name": "Salon",
+    "link": "http://www.salon.com/feed/",
+    "description": ""
+  },
+  {
+    "name": "Entrepreneur",
+    "link": "https://www.entrepreneur.com/topic/finance.rss",
+    "description": "The latest news, videos, and discussion topics on Finance."
+  },
+  {
+    "name": "Forbes",
+    "link": "http://www.forbes.com/business/feed2/",
+    "description": "Forbes is a leading source for reliable news and updated analysis on Business."
+  },
+  {
+    "name": "Foxon Stocks",
+    "link": "https://foxonstocks.com/feed",
+    "description": ""
+  },
+  {
+    "name": "Yahoo Entertainment",
+    "link": "https://www.yahoo.com/entertainment/tagged/trailers/rss",
+    "description": ""
+  },
+  {
+    "name": "Kubuntu News",
+    "link": "http://www.kubuntu.org/feed/",
+    "description": "An official derivative of Ubuntu Linux that uses the KDE graphical environment instead of GNOME."
+  },
+  {
+    "name": "UpLabs",
+    "link": "https://www.uplabs.com/rss",
+    "description": "An official derivative of Ubuntu Linux that uses the KDE graphical environment instead of GNOME."
+  }
+]
